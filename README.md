@@ -33,7 +33,7 @@ A collection of practical IT support guides, troubleshooting procedures, and che
 
 ## 📌 About
 
-These guides are written in the format I use during helpdesk work – clear, step-by-step, and focused on fast resolution. They reflect experience from my APL at ICA Sverige (Aug 2025 – Jan 2026) and my studies in Computer and Network Technology at Grillska Gymnasiet.
+These guides are written in the format I use during helpdesk work – clear, step-by-step, and focused on fast resolution. They reflect experience from my Internship at ICA Sverige (Aug 2025 – Jan 2026) and my studies in Computer and Network Technology at Grillska Gymnasiet.
 
 ---
 
