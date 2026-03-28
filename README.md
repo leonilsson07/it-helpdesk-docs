@@ -17,6 +17,11 @@ A collection of practical IT support guides, troubleshooting procedures, and che
 | [Network Troubleshooting](./guides/network-troubleshooting.md) | Step-by-step guide for diagnosing network problems |
 | [Printer Troubleshooting](./guides/printer-troubleshooting.md) | Common printer issues and solutions |
 | [Microsoft 365 – Common Issues](./guides/m365-troubleshooting.md) | Outlook, Teams, and Office app support |
+| [BitLocker Troubleshooting](./guides/bitlocker-troubleshooting.md) | Diagnosing and resolving common BitLocker problems |
+| [Group Policy Cheatsheet](./guides/group-policy-cheatsheet.md) | Quick reference for common Group Policy tasks |
+| [Software Installation Troubleshooting](./guides/software-installation-troubleshooting.md) | Fixing software installation failures |
+| [User Profile Corrupted](./guides/user-profile-corrupted-troubleshooting.md) | Diagnosing and fixing corrupted Windows user profiles |
+| [Backup & Restore Guide](./guides/backup-restore-guide.md) | Backing up and restoring data in a Windows environment |
 
 ---
 
@@ -27,6 +32,9 @@ A collection of practical IT support guides, troubleshooting procedures, and che
 - Microsoft 365 (Outlook, Teams, Office)
 - Network diagnostics (ping, ipconfig, nslookup, tracert)
 - Printer and peripheral support
+- BitLocker and drive encryption
+- Group Policy management
+- Backup and restore procedures
 - ServiceNow-style ticket documentation
 
 ---
